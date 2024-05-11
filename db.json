@@ -1,0 +1,76 @@
+{
+  "jobs": [
+    {
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "Redmond",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "id": "6b94a2d3-0571-412b-81e0-910d99a2f057",
+      "date": 1712607002328
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Zorro",
+      "location": "Menlo Park",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "46b7da48-67af-45c6-9dfe-5d327d24cab8",
+      "date": 1715104431342
+    },
+    {
+      "id": "8d2c63c1-aaba-4491-9897-375e37aadc21",
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": 1715422688205
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "İzmir/Bayraklı",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "2da9d430-f359-4c24-b9f9-24a35fc05b47",
+      "date": 1715458695336
+    },
+    {
+      "position": "Data Analyst",
+      "company": "Coca Cola",
+      "location": "İzmir/Bayraklı",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "id": "2a05f56b-7b29-4a3c-b8c8-e54ea7fb3947",
+      "date": 1715462212257
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "id": "87e937e4-2037-45f7-ac2a-60c3a5b47954",
+      "date": 1715462327205
+    },
+    {
+      "position": "Product Manager",
+      "company": "Microsoft",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "98d6cfc5-8ddc-4029-b497-a0df1147e9c3",
+      "date": 1715462343846
+    },
+    {
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "cc973f16-8d50-47dd-84d9-454cbf3f325a",
+      "date": 1715462432317
+    }
+  ]
+}
